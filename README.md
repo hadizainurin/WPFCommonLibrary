@@ -2,7 +2,8 @@
 Common resources used for WPF project in Visual Studio.
 
 Please don't forget to add this line in your App.xaml 
-'''
+
+```
 <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
@@ -11,4 +12,4 @@ Please don't forget to add this line in your App.xaml
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
-'''
+```
